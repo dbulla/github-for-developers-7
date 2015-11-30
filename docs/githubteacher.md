@@ -1,1 +1,2 @@
 -[ ] never check this
+-[ ] always check this
